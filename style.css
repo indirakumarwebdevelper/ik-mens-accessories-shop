@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F0F0F0;
+}
+.first{
+    padding-top: 200px;
+}
+
+
+.foot{
+    background-color: #0F1035;
+    color: white;
+}
+.navbar{
+    background-color: #0F1035;
+    color: white;
+}
+.glass{
+    height: 100px;
+}
+.co-bg{
+    background-color: #F0F0F0;
+}
